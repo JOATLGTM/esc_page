@@ -15,6 +15,11 @@
     font-size: 20px;
     line-height: 1;
     color: #dc9814;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
 }
 
 .button {
